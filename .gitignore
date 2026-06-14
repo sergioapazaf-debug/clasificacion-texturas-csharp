@@ -1,0 +1,22 @@
+# Visual Studio
+bin/
+obj/
+.vs/
+
+# User files
+*.user
+*.suo
+
+# Build results
+Debug/
+Release/
+
+# NuGet packages
+packages/
+
+# ReSharper
+_ReSharper*/
+
+# Windows
+Thumbs.db
+Desktop.ini
