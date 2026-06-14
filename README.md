@@ -77,7 +77,18 @@ private const string BASE_DATOS = "multimedia";
 
 ## Capturas
 
-Agregar aquí capturas de la aplicación funcionando.
+### Interfaz principal
+
+![Interfaz principal](screenshots/interfaz.png)
+
+### Registro de muestras
+
+![Registro de muestras](screenshots/registro-muestras.png)
+![Registro de muestras](screenshots/db.png)
+
+### Resultado de clasificación
+
+![Resultado de clasificación](screenshots/clasificacion.png)
 
 ## Autor
 
